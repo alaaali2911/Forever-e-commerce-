@@ -1,0 +1,1 @@
+import{j as s}from"./index-24f_J-Oz.js";const t=({text1:e,text2:a})=>s.jsx("div",{children:s.jsxs("div",{className:"inline-flex gap items-center mb-3",children:[s.jsxs("p",{className:"text-gray-500",children:[e," ",s.jsx("span",{className:"text-gray-700 font ",children:a})]}),s.jsx("p",{className:"w-8 md:w-12 h-[2PX] bg-gray-700"})]})});export{t as T};
